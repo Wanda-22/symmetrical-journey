@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+#h{
+    font-family: monospace;
+}
+canvas{
+    box-shadow: 20px 20px 20px #feb236;
+    border-radius: 50px;
+    border: 10px #feb236;
+    border-style: dotted dashed solid double;
+    margin-top: 45;
+}
+#s1{
+    border: 8px groove #6b5b95;
+    background-color: #6b5b95;
+    width: 20%;
+    height: auto;
+    padding: 15px;
+    
+}
+#s2{
+    background-color: #c83349;
+    font-size: 20px;
+}
